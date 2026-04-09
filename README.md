@@ -50,3 +50,20 @@ The models are evaluated using **Accuracy** and **Macro F1-Score**. The output i
    ```bash
    git clone [https://github.com/jainishjain11/NLP_Assessment.git](https://github.com/jainishjain11/NLP_Assessment.git)
    cd NLP_Assessment
+   ```
+2. **Install the required dependencies:**
+   Make sure you have Python 3 installed. You will need the following libraries:
+   ```bash
+   pip install pandas numpy nltk scikit-learn
+   ```
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook NLP_Assessment_updated.ipynb
+   ```
+   Alternatively, you can just click the "Open in Colab" badge at the top of this README to run the code directly in your browser without local setup!
+
+🛠 Libraries Used
+pandas, numpy (Data manipulation)
+nltk (Natural Language Toolkit for preprocessing)
+scikit-learn (Machine learning models and TF-IDF)
+re (Regular expressions)
