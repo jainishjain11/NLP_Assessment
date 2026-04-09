@@ -62,8 +62,8 @@ The models are evaluated using **Accuracy** and **Macro F1-Score**. The output i
    ```
    Alternatively, you can just click the "Open in Colab" badge at the top of this README to run the code directly in your browser without local setup!
 
-🛠 Libraries Used
-pandas, numpy (Data manipulation)
-nltk (Natural Language Toolkit for preprocessing)
-scikit-learn (Machine learning models and TF-IDF)
-re (Regular expressions)
+# 🛠 Libraries Used
+* pandas, numpy (Data manipulation)
+* nltk (Natural Language Toolkit for preprocessing)
+* scikit-learn (Machine learning models and TF-IDF)
+* re (Regular expressions)
